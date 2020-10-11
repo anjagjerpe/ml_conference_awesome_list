@@ -1,5 +1,5 @@
-# Machine Learning Conferences Awesome List
-An awesome list of interesting machine learning conferences and highlight papers
+# Machine Learning Conferences
+List of interesting machine learning conferences and highlight papers
 
 
 ## [Neural Information Processing Systems (NeurlIPS)](https://nips.cc/)
